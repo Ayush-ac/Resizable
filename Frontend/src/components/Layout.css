@@ -1,0 +1,28 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+}
+
+.child{
+    text-align: center;
+    width: 100%;
+    height:100%;
+    overflow: hidden;
+    padding-top: 5%;
+   
+}
+.child1{
+    background-color: rgb(179, 169, 240);
+
+}
+.child2{
+    margin-left: 5%;
+    background-color: rgb(239, 221, 221);
+    padding: 5%;
+}
+.child3{
+    background-color: rgb(119, 248, 119);
+    
+}
